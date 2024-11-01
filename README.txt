@@ -1,0 +1,1 @@
+This is the description file for BME capstone project - Respiratory Phantom for EIT Imaging
